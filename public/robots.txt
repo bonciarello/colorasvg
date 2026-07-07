@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cristianporco.it/app/convertitore-di-immagini-svg-a-png-con-editor-di-colori-e-dimensioni/sitemap.xml
